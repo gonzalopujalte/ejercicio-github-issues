@@ -1,5 +1,6 @@
 # Práctica de Issues en GitHub
-
+## Nombre
+Gonzalo Pujalte
 ## Instrucciones
 Haz un fork del repositorio.
 
